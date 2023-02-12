@@ -35,7 +35,7 @@
     "@nestjs/config": "^0.6.3",
     "@nestjs/core": "^7.6.15",
     "@nestjs/platform-express": "^7.6.15",
-    "alex": "^9.1.0",
+    "alex": "^11.0.0",
     "cache-manager": "^3.4.4",
     "discord-nestjs": "^1.1.11",
     "discord.js": "^12.5.3",
